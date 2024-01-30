@@ -19,8 +19,8 @@ const MESSAGE = process.env.MESSAGE ||  `
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Github:* _github.com/MR-KALINDU_
-║ *Owner:* _https://wa.me/94758179948_
+║ *Github:* _gitHub.com/Bladeh4x_
+║ *Owner:* _https://wa.me/2348059540212_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
 ╚════════════════════════╝
