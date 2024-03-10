@@ -13,17 +13,9 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-╔════◇
-║ *『 WOW YOU CHOOSE BLADE-MD 』*
-║ _You complete first step to making Bot._
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Github:* _gitHub.com/Bladeh4x_
-║ *Owner:* _https://wa.me/2348059540212_
-║ *Note :*_Don't provide your SESSION_ID to_
-║ _anyone otherwise that can access chats_
-╚════════════════════════╝
+╔════════════════════════◇
+║ *『 THANKS FOR CHOOSING G_HOST_MD 』*
+╚════════════════════════◇
 `
 
 
@@ -74,7 +66,7 @@ if (fs.existsSync('./auth_info_baileys')) {
          // res.json({status:true,Scan_Id })
           console.log(`
 ====================  SESSION ID  ==========================                   
-SESSION-ID ==> ${Scan_Id}
+SESSION-ID ==> $GHOST_MD=${Scan_Id}
 -------------------   SESSION CLOSED   -----------------------
 `)
 
